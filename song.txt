@@ -3,8 +3,13 @@ Like I'm not scared
 Like I want you to trust me
 Don't waste your time
 
+<<<<<<< HEAD
 But it's the same old situation
 We made it through this far. Oh.
 We watched the rockets kiss the sky.
 I saw the flames burn out in your eyes.
 ---------------------------------------
+=======
+The things we never say
+Are better often left alone.
+>>>>>>> 35114a43d69b3a8bb6b46a87f83ba30fedb3895f
